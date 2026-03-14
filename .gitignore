@@ -1,0 +1,25 @@
+# 의존성
+node_modules/
+.pnpm-store/
+
+# Next.js 빌드 결과물
+.next/
+dist/
+out/
+
+# 환경변수 (민감정보 포함)
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+
+# 테스트 캐시
+.nyc_output/

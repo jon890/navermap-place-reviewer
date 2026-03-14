@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env*
+!.env.local.example
+node_modules
+.next
+dist
+*.md
+.DS_Store

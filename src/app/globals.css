@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@source "src/app/**/*.{ts,tsx}";
+
+@theme {
+  --color-naver: #03c75a;
+  --color-naver-dark: #02a44a;
+  --color-naver-light: #e8faf0;
+  --font-sans: "Noto Sans KR", ui-sans-serif, system-ui, sans-serif;
+}
